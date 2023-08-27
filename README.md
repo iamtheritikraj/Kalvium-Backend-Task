@@ -7,12 +7,14 @@ Example: http://localhost:3000/5/plus/2
 <br><br>
 Methods to write Expression:
 <br><br>
+<ul>
+<li>plus: +</li>
+<li>minus: -</li>
+<li>by: /</li>
+<li>into: *</li>
+<li>mod: %</li>
+</ul>
 
-plus: +
-minus: -
-by: /
-into: *
-mod: %
 
 <br><br>
 
